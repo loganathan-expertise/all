@@ -120,7 +120,7 @@ Migrated large-scale sites to WordPress and Drupal, ensuring seamless transition
 
 9. Laravel Expertise
 
-Delivered secure, scalable web applications and portals using Laravel.
+Delivered secure, scalable web applications and portals using Laravel, FilamentPHP.
 Implemented authentication systems, custom APIs, and modular architecture for enterprise-grade solutions.
 Developed service-oriented designs to ensure maintainability and flexibility.
 
